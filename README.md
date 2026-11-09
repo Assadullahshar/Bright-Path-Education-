@@ -1,1 +1,1 @@
-# Bright-Path-Education-
+Bright Path Education is a modern and user-friendly educational website designed to make learning accessible and engaging. It provides students with educational resources, learning opportunities, academic information, and an intuitive platform to explore their educational journey. Built with a responsive design and a focus on improving the online learning experience.
